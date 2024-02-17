@@ -1,8 +1,8 @@
 function sendEmail() {
   Email.send({
-    SecureToken: "75ecaaee-15f0-4aec-a6e8-7187cd4585e9",
-    To: 'mzaidansari712@gmail.com',
-    From: 'mzaidansari712@gmail.com',
+    SecureToken: "Enter your tocken number",
+    To: 'enter your email',
+    From: 'enter your email',
     Subject: "This is the subject",
     Body:
       "Name:" +
